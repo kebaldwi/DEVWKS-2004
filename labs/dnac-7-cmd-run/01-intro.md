@@ -10,4 +10,4 @@ The platform commands that you can run are those such as ping, traceroute, and s
 
 > **Prerequisites**: **Completed** the previous section **Retrieving Device Inventory**
 
-> [**Next Section**](./dnac-7-cmd-run/02-deploy.md)
+> [**Next Section**](02-deploy.md)

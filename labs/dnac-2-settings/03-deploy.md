@@ -31,4 +31,4 @@ Follow these steps:
 
    ![json](./images/Postman-Collection-Settings-Summary.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-2-settings/04-verify.md)
+> [**Next Section**](04-verify.md)

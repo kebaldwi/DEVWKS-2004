@@ -48,4 +48,4 @@ PxGrid integration allows configuration automation by Cisco DNA Center within IS
    ![json](./images/dnac-system-settings-aaa-ise-done.png?raw=true "Import JSON")
    ![json](./images/dnac-system-settings-aaa-ise-complete.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-1-hierarchy/03-postman.md)
+> [**Next Section**](03-postman.md)

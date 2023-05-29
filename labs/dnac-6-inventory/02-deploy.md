@@ -35,4 +35,4 @@ Follow these steps:
 
       ![json](./images/Postman-Collection-DeviceInventory-Console.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-6-inventory/03-summary.md)
+> [**Next Section**](03-summary.md)

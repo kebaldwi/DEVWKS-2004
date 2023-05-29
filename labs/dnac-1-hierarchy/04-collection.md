@@ -62,5 +62,5 @@ To investigate this collection, follow these steps:
          
          We culminate the section by calling for the next API within the collection.
 
-> [**Next Section**](./dnac-1-hierarchy/05-deploy.md)
+> [**Next Section**](05-deploy.md)
 >

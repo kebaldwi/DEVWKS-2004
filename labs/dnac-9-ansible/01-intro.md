@@ -18,4 +18,4 @@ Within this section you will use and review prewritten code to see how various t
 
 > **Prerequisites**: **Completed** the previous section **Python Applications**
 
-> [**Next Section**](./dnac-9-ansible/02-scriptserver.md)
+> [**Next Section**](02-scriptserver.md)

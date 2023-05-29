@@ -20,4 +20,4 @@ The network hierarchy has a predetermined hierarchy:
 
 > **Prerequisites**: **Completed** the previous section **Orientation**
 
-> [**Next Section**](./dnac-1-hierarchy/02-integration.md)
+> [**Next Section**](02-integration.md)

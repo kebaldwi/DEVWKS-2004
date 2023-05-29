@@ -16,4 +16,4 @@ As you review the CSV file, you will see each row has hierarchal information, se
 
 > **Note**: You can see the settings begin to the right of the hierarchy.
 
-> [**Next Section**](./dnac-2-settings/03-deploy.md)
+> [**Next Section**](03-deploy.md)

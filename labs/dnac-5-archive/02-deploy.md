@@ -61,4 +61,4 @@ Follow these steps:
 
    ![json](./images/Postman-Collection-ConfigArchive-Verify.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-5-archive/03-summary.md)
+> [**Next Section**](03-summary.md)

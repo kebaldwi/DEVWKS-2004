@@ -82,4 +82,4 @@ ansible-playbook dnac/02-device_add.yaml
 
 The playbook takes a while to run and produces significant output. It should complete with no errors. In the next section, we will validate that our devices have been successfully added to Cisco DNA Center.
 
-> [**Next Section**](./dnac-9-ansible/07-verify.md)
+> [**Next Section**](07-verify.md)

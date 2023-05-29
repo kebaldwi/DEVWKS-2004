@@ -90,4 +90,4 @@ It would run without errors and return data on the Cisco DNA Center system. See 
 
 ![json](./images/get_sys_info.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-9-ansible/06-add-devices.md)
+> [**Next Section**](06-add-devices.md)

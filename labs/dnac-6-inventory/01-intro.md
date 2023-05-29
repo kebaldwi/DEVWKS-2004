@@ -12,4 +12,4 @@ The inventory could be used in reports to determine compliance or to reference t
 
 > **Prerequisites**: **Completed** the previous section **Configuration Archiving**
 
-> [**Next Section**](./dnac-6-inventory/02-deploy.md)
+> [**Next Section**](02-deploy.md)

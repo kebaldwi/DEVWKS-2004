@@ -24,4 +24,4 @@ Follow these steps:
 
    ![json](./images/DNAC-TemplateEditor-DeployTemplate-Verify.gif?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-4-templates/05-summary.md)
+> [**Next Section**](05-summary.md)

@@ -16,4 +16,4 @@ As you review the CSV file, you will see each row has hierarchal information, se
 
 Within the CSV, scroll to the right for the columns pertaining to this collection.
 
-> [**Next Section**](./dnac-4-templates/03-deploy.md)
+> [**Next Section**](03-deploy.md)

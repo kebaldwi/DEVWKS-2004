@@ -29,4 +29,4 @@ Follow these steps:
 3. The following summary will slowly appear as the collection is processed
    ![json](./images/Postman-Collection-DeployTemplate-Summary.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-4-templates/04-verify.md)
+> [**Next Section**](04-verify.md)

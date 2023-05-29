@@ -12,4 +12,4 @@ One such use case is configuration `compliance`. Suppose we wanted to create a p
 
 > **Prerequisites**: **Completed** the previous section on **Template Deployment**
 
-> [**Next Section**](./dnac-5-archive/02-deploy.md)
+> [**Next Section**](02-deploy.md)

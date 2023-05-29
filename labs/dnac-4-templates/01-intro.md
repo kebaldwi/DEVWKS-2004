@@ -18,4 +18,4 @@ In this lab, we will `deploy` a `regular template` within a project to be ready 
 
 > **Prerequisites**: **Completed** the previous section **Device Discovery**
 
-> [**Next Section**](./dnac-4-templates/02-postman.md)
+> [**Next Section**](02-postman.md)

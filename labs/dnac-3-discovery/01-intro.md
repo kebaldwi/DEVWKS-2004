@@ -22,5 +22,5 @@ In this lab, we will **discover** all the devices within the dCloud lab as speci
 
 > **Prerequisites**: **Completed** the previous section **Assign Settings and Credentials**
 
-> [**Next Section**](./dnac-3-discovery/02-postman.md)
+> [**Next Section**](02-postman.md)
 

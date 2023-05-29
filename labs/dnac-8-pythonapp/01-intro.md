@@ -12,4 +12,4 @@ Within this section you will use and review prewritten code to see how various t
 
 > **Prerequisites**: **Completed** the previous section **Running Show Commands**
 
-> [**Next Section**](./dnac-8-pythonapp/02-deploy.md)
+> [**Next Section**](02-deploy.md)

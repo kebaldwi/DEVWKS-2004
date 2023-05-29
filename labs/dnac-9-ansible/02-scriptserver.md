@@ -12,4 +12,4 @@ Complete the following:
 
    ![json](./images/ansible-ssh.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-9-ansible/03-collection.md)
+> [**Next Section**](03-collection.md)

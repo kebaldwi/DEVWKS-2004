@@ -26,4 +26,4 @@ Global > State > NorthCarolina > Building3 > Floor2
 Global > State > Texas > Building1 > Floor1
 ```
 
-> [**Next Section**](./dnac-1-hierarchy/04-collection.md)
+> [**Next Section**](04-collection.md)

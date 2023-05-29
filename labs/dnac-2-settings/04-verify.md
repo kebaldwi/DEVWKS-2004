@@ -32,4 +32,4 @@ Follow these steps:
 
    ![json](./images/DNAC-Settings-Verify3.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-2-settings/05-summary.md)
+> [**Next Section**](05-summary.md)

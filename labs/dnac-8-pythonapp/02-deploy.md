@@ -70,4 +70,4 @@ Once the files are extracted to the Downloads folder, these steps:
 
    ![json](./images/VisualStudio-PythonApp.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-8-pythonapp/03-summary.md)
+> [**Next Section**](03-summary.md)

@@ -16,4 +16,4 @@ As with all the Design, Policy & Provisioning elements, they are all tied to the
 
 > **Prerequisites**: **Completed** the previous section **Build Hierarchy**
 
-> [**Next Section**](./dnac-2-settings/02-postman.md)
+> [**Next Section**](02-postman.md)

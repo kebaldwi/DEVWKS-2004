@@ -16,4 +16,4 @@ As you review the CSV file, you will see each row has hierarchal information, se
 
 > **Note**: You can see the devices all the way to the right of the file.
 
-> [**Next Section**](./dnac-3-discovery/03-deploy.md)
+> [**Next Section**](03-deploy.md)

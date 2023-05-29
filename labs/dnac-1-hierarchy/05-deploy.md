@@ -29,4 +29,4 @@ Follow these steps:
 
    ![json](./images/Postman-Collection-Hierarchy-Summary.png?raw=true "Import JSON")
 
-> [**Next Section**](./dnac-1-hierarchy/06-verify.md)
+> [**Next Section**](06-verify.md)

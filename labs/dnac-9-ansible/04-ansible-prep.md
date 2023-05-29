@@ -80,4 +80,4 @@ To ensure all the required files are there issue an `ls -lR ./dnac` and confirm:
 
 ![json](./images/gitclone.png?raw=true "IMPORT JSON")
 
-> [**Next Section**](./dnac-9-ansible/05-dnac-vars.md)
+> [**Next Section**](05-dnac-vars.md)

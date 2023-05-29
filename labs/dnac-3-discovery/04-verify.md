@@ -30,4 +30,4 @@ Follow these steps:
 
 You will notice the devices have been discovered and assigned to the appropriate level of the Hierarchy as per the CSV.
 
-> [**Next Section**](./dnac-3-discovery/05-summary.md)
+> [**Next Section**](05-summary.md)

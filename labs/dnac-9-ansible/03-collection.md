@@ -8,4 +8,4 @@ The [**cisco.dnac**](https://docs.ansible.com/ansible/latest/collections/cisco/d
 
 The Cisco DNA Center Ansible collection depends on the [**Cisco DNA Center Python SDK**](https://dnacentersdk.readthedocs.io/en/latest/) and the version of the SDK must align with the version of Cisco DNA Center that is in use. 
 
-> [**Next Section**](./dnac-9-ansible/04-ansible-prep.md)
+> [**Next Section**](04-ansible-prep.md)

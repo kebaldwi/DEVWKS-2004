@@ -24,6 +24,6 @@ This action filters the inventory to only devices assigned to the site you creat
 
 It takes time for Cisco DNA Center to finish adding devices to the inventory and collecting details. Your devices may not have the same status at the time you view them, but after a few minutes, Cisco DNA Center will begin to provide Assurance data for these devices.
 
-> [**Next Section**](./dnac-9-ansible/08-summary.md)
+> [**Next Section**](08-summary.md)
 
 
