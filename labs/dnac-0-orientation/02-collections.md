@@ -18,4 +18,4 @@ HTTPS Basic uses Transport Layer Security (TLS) to encrypt the connection and da
 
 This type of request is built into every collection that we will use with **Cisco DNA Center**.
 
-> [**Next Section**](./dnac-0-orientation/03-postman.md)
+> [**Next Section**](03-postman.md)

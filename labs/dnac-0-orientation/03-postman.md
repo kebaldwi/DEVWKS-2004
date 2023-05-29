@@ -58,4 +58,4 @@ Follow these steps:
 
 > **Note**: This environment is prepopulated with the information to build Cisco DNA Center. At specific points in the lab, we will customize it for your use.
 
-> [**Next Section**](./dnac-0-orientation/04-ssl.md)
+> [**Next Section**](04-ssl.md)

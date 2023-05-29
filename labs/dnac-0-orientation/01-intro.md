@@ -37,4 +37,4 @@ To effectively run the Labs, install the following tools on your computer:
 
 > **NOTE**: Google Chrome is **Recommended** for working in the Cisco DNA Center UI in these Labs. Download it from the [Chrome website](https://www.google.com/chrome/downloads/).
 
-> [**Next Section**](./dnac-0-orientation/02-collections.md)
+> [**Next Section**](02-collections.md)

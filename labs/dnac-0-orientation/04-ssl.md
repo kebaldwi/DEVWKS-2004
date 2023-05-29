@@ -14,4 +14,4 @@ Follow these steps:
 
 3. Close the settings window.
 
-> [**Next Section**](./dnac-0-orientation/05-summary.md)
+> [**Next Section**](05-summary.md)
