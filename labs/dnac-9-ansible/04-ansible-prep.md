@@ -52,14 +52,18 @@ In preparation from the working home directory folder `cd ~` issue the following
 pip install github-clone
 ```
 
+![json](./images/gitclone.png?raw=true "IMPORT JSON")
+
 Once the package has installed issue the following command to clone the specific subfolder to make things easier in the lab:
 
 ```SHELL
  ghclone https://github.com/kebaldwi/DNAC-TEMPLATES/tree/master/LABS/LAB-I-Rest-API-Orchestration/dnac
  ```
 
+![json](./images/cloning.png?raw=true "IMPORT JSON")
+
 To ensure all the required files are there issue an `ls -lR ./dnac` and confirm:
 
-![json](./images/gitclone.png?raw=true "IMPORT JSON")
+![json](./images/clone-dir.png?raw=true "IMPORT JSON")
 
 > [**Next Section**](05-dnac-vars.md)

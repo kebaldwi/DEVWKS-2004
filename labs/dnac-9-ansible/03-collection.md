@@ -20,6 +20,8 @@ First lets make sure Ansible is at the required version:
 ansible --version
 ```
 
+![json](./images/ansible-version.png?raw=true "Import JSON")
+
 This should show Ansible at version `2.13.10` if not use the following command to update it now:
 
 ```SHELL
