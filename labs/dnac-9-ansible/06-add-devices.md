@@ -77,7 +77,7 @@ Run the playbook **device_add.yaml.**
 
 ```SHELL
 cd ~
-ansible-playbook dnac/02-device_add.yaml
+ansible-playbook dnac/device_add.yaml
 ```
 
 The playbook takes a while to run and produces significant output. It should complete with no errors. In the next section, we will validate that our devices have been successfully added to Cisco DNA Center.
