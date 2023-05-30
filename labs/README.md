@@ -24,6 +24,8 @@ The use cases we will cover are the following which you can access via the links
 6. [**Configuration Archive**](./dnac-5-archive/01-intro.md)
 7. [**Retrieving Network Inventory**](./dnac-6-inventory/01-intro.md)
 8. [**Running Show Commands**](./dnac-7-cmd-run/01-intro.md)
+9. [**Python REST API Application**](./dnac-8-pythonapp/01-intro.md)
+10. [**Ansible Orchestration**](./dnac-9-ansible/01-intro.md)
 
 ## Preparation
 
