@@ -26,4 +26,8 @@ This should show Ansible at version `2.13.10` if not use the following command t
 sudo pip install 'ansible==6.6.0'
 ```
 
+You should see something like this:
+
+![json](./images/install-ansible.png?raw=true "Import JSON")
+
 > [**Next Section**](04-ansible-prep.md)
