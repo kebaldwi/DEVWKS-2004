@@ -12,11 +12,11 @@ You can create a network hierarchy that represents your network's geographical l
 
 The network hierarchy has a predetermined hierarchy:
 
-> **Areas**: Do not have a physical address. You can think of areas as the largest element. Areas can contain buildings and subareas. For example, an area named `United States` can contain a `California` subarea, and the subarea `California` can contain a `San Jose` subarea.
+- **Areas**: Do not have a physical address. You can think of areas as the largest element. Areas can contain buildings and subareas. For example, an area named `United States` can contain a `California` subarea, and the subarea `California` can contain a `San Jose` subarea.
 
-> **Buildings**: Include a physical address and contain floors and floor plans. When you create a building, you must specify a physical address or latitude and longitude coordinates. Buildings cannot contain areas. By creating buildings, you can apply settings to a specific location.
+- **Buildings**: Include a physical address and contain floors and floor plans. When you create a building, you must specify a physical address or latitude and longitude coordinates. Buildings cannot contain areas. By creating buildings, you can apply settings to a specific location.
 
-> **Floors**: Exist within buildings and consist of cubicles, walled offices, wiring closets, and so on. You can add floors only to buildings.
+- **Floors**: Exist within buildings and consist of cubicles, walled offices, wiring closets, and so on. You can add floors only to buildings.
 
 > **Prerequisites**: **Completed** the previous section **Orientation**
 
