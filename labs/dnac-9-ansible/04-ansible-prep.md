@@ -1,19 +1,5 @@
 # Preparing the Ansible Collection
 
-## Ansible
-
-First lets make sure Ansible is at the required version:
-
-```
-ansible --version
-```
-
-This should show Ansible at version `2.13.10` if not use the following command to update it now:
-
-```SHELL
-sudo pip install 'ansible==6.6.0'
-```
-
 ## Cisco DNA Center Python SDK
 
 To prepare you will install the [**Cisco DNA Center Python SDK**](https://dnacentersdk.readthedocs.io/en/latest/) using pip or by downloading the source code and running a setup script. This can be accomplished within a virtual environment or within the global Python installation on a host. 
@@ -29,10 +15,6 @@ pip3 install dnacentersdk==2.5.5
 ![json](./images/ansible-dnacentersdk.png?raw=true "Import JSON")
 
 This command installs the latest dnacentersdk package and any missing dependencies. If you are running an older version of Cisco DNA Center, ensure you match the version of the SDK and Ansible collection that is compatible with your version of Cisco DNA Center.
-
-![json](./images/dnacentersdk_compatibility.png?raw=true "Import JSON")
-
-The latest compatibility information is available in the [**SDK Github Repository**](https://github.com/cisco-en-programmability/dnacentersdk) or [**Ansible Galaxy**](https://galaxy.ansible.com/cisco/dnac) Documentation. 
 
 ## Ansible Collection
 

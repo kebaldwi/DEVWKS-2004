@@ -8,4 +8,22 @@ The [**cisco.dnac**](https://docs.ansible.com/ansible/latest/collections/cisco/d
 
 The Cisco DNA Center Ansible collection depends on the [**Cisco DNA Center Python SDK**](https://dnacentersdk.readthedocs.io/en/latest/) and the version of the SDK must align with the version of Cisco DNA Center that is in use. 
 
+![json](./images/dnacentersdk_compatibility.png?raw=true "Import JSON")
+
+The latest compatibility information is available in the [**SDK Github Repository**](https://github.com/cisco-en-programmability/dnacentersdk) or [**Ansible Galaxy**](https://galaxy.ansible.com/cisco/dnac) Documentation. 
+
+## Ansible
+
+First lets make sure Ansible is at the required version:
+
+```
+ansible --version
+```
+
+This should show Ansible at version `2.13.10` if not use the following command to update it now:
+
+```SHELL
+sudo pip install 'ansible==6.6.0'
+```
+
 > [**Next Section**](04-ansible-prep.md)
