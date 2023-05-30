@@ -4,3 +4,6 @@ At this point, we have built the Hierarchy utilizing environment variables and R
 
 > **Note**: Additionally, if there is time, look at the pre and post-scripts.
 
+> [**NEXT MODULE**](../dnac-2-settings/01-intro.md)
+
+> [**HOME**](../README.md)

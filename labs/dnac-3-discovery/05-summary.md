@@ -5,3 +5,7 @@ We have discovered devices within the network and imported them into DNA Center.
 This may assist in brownfield learning so as to ensure the device may be properly provisioned with the UI based settings for intent.
 
 > **Note**: If there is time, look at the results of the Discovery and Inventory within Cisco DNA Center and the various pre and post-scripts within Postman.
+
+> [**NEXT MODULE**](../dnac-4-templates/01-intro.md)
+
+> [**HOME**](../README.md)

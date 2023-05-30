@@ -6,3 +6,6 @@ This information might be used for many uses, including making decisions on temp
 
 > **Note**: Additionally, if there is time, look at the pre and post-scripts within Postman.
 
+> [**NEXT MODULE**](../dnac-7-cmd-run/01-intro.md)
+
+> [**HOME**](../README.md)

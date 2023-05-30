@@ -16,6 +16,8 @@ This set of Cisco Learning Labs is developed around a set of simple use cases to
 | dnac-5-archive | https://pubhub.cisco.com/detail/ |
 | dnac-6-inventory | https://pubhub.cisco.com/detail/ |
 | dnac-7-cmd-run | https://pubhub.cisco.com/detail/ |
+| dnac-8-pythonapp | https://pubhub.cisco.com/detail/ |
+| dnac-9-ansible | https://pubhub.cisco.com/detail/ |
 
 > **Note**: The following section of the README contains information for DevNet Express instructors.
 
