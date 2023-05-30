@@ -12,17 +12,26 @@ Once the file is downloaded to your laptop please extract it within the folder  
 
 Once the files are extracted to the Downloads folder, these steps:
 
-1. Open the Command Line application within windows `CMD`. A shortcut is on the taskbar below. Within `CMD` change directory to the folder `cd C:\Users\administrator\Downloads>` then show the directory of the folder `dir`.
+1. Open the Command Line application within windows `CMD`. A shortcut is on the taskbar below. Within `CMD` change directory to the folder and then show the directory of the folder:
+
+```SHELL
+   cd C:\Users\administrator\Downloads
+   dir
+```
 
    ![json](./images/Python-CMD-Begin.png?raw=true "Import JSON")
 
-2. Now install the various requirements for the Python application to run. Within the Terminal issue the following command `pip install -r requirements.txt`.
+2. Now install the various requirements for the Python application to run. Within the Terminal issue the following command:
+
+ ```SHELL
+   pip install -r requirements.txt
+```
 
    ![json](./images/Python-CMD-Requirements.png?raw=true "Import JSON")
 
 3. To run the Python Application, do the following:
 
-   1. Issue the command python `DNAC-recon.py`.
+   1. Issue the command: ``` python DNAC-recon.py ```
 
       ![json](./images/Python-CMD-Execute.png?raw=true "Import JSON")
 
