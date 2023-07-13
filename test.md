@@ -1,7 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="assets/">
-Your browser does not support the video tag.
-</video>
-<p width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</p>
+
+
+https://github.com/kebaldwi/DEVWKS-2004/assets/8090110/1139daac-d78c-4faf-82b6-5b96dab091e3
+
